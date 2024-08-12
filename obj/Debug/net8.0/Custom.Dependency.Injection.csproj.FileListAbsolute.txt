@@ -1,0 +1,14 @@
+F:\rdsemir\Custom.Dependency.Injection\bin\Debug\net8.0\Custom.Dependency.Injection.exe
+F:\rdsemir\Custom.Dependency.Injection\bin\Debug\net8.0\Custom.Dependency.Injection.deps.json
+F:\rdsemir\Custom.Dependency.Injection\bin\Debug\net8.0\Custom.Dependency.Injection.runtimeconfig.json
+F:\rdsemir\Custom.Dependency.Injection\bin\Debug\net8.0\Custom.Dependency.Injection.dll
+F:\rdsemir\Custom.Dependency.Injection\bin\Debug\net8.0\Custom.Dependency.Injection.pdb
+F:\rdsemir\Custom.Dependency.Injection\obj\Debug\net8.0\Custom.Dependency.Injection.GeneratedMSBuildEditorConfig.editorconfig
+F:\rdsemir\Custom.Dependency.Injection\obj\Debug\net8.0\Custom.Dependency.Injection.AssemblyInfoInputs.cache
+F:\rdsemir\Custom.Dependency.Injection\obj\Debug\net8.0\Custom.Dependency.Injection.AssemblyInfo.cs
+F:\rdsemir\Custom.Dependency.Injection\obj\Debug\net8.0\Custom.Dependency.Injection.csproj.CoreCompileInputs.cache
+F:\rdsemir\Custom.Dependency.Injection\obj\Debug\net8.0\Custom.Dependency.Injection.dll
+F:\rdsemir\Custom.Dependency.Injection\obj\Debug\net8.0\refint\Custom.Dependency.Injection.dll
+F:\rdsemir\Custom.Dependency.Injection\obj\Debug\net8.0\Custom.Dependency.Injection.pdb
+F:\rdsemir\Custom.Dependency.Injection\obj\Debug\net8.0\Custom.Dependency.Injection.genruntimeconfig.cache
+F:\rdsemir\Custom.Dependency.Injection\obj\Debug\net8.0\ref\Custom.Dependency.Injection.dll
